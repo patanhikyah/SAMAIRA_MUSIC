@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝐕𝐈𝐋𝐋𝐀𝐈𝐍+𝗞𝗜𝗡𝗚+🚩+🍁"></b></h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝐕𝐈𝐋𝐋𝐀𝐈𝐍+𝗞𝗜𝗡𝗚+🕊️+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>𝐕𝐈𝐋𝐋𝐀𝐈𝐍 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓𝐒</b></h1>
-<p align="center"><a href="https://t.me/iamakki001"><img src="https://files.catbox.moe/i7uj2i.jpg" width="400"></a></p>
+<h1 align="center"><b>rDʜᴏᴋᴇʙᴀᴀᴢ 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓𝐒</b></h1>
+<p align="center"><a href="https://t.me/dhokebaaz_raja"><img src="https://files.catbox.moe/i7uj2i.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
-<b>![𝐕𝐈𝐋𝐋𝐀𝐈𝐍 𝐁𝐎𝐓𝐒](https://t.me/iamvillain77")</b>
+<b>![𝐕𝐈𝐋𝐋𝐀𝐈𝐍 𝐁𝐎𝐓𝐒](https://t.me/dhokebaazbots")</b>
 
 ### 𝗩ɪsɪᴛᴏʀs 🍹
 <h3 align="center">
@@ -50,6 +50,6 @@
 
 <details>
 <summary><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></b></summary>
-<a href="https://t.me/iamakki001"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/dhokebaaz_raja"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
