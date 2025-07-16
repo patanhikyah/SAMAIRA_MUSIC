@@ -15,7 +15,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","dhokebaaz_raja")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","Radha_Music_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME","Rubie_Music_Bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -97,11 +97,11 @@ PING_IMG_URL = getenv(
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/fcawaj.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/fcawaj.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ge9tsv.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/ge9tsv.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/ge9tsv.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/ge9tsv.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/ge9tsv.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/fcawaj.jpg"
