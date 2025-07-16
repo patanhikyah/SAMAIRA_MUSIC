@@ -43,7 +43,7 @@
 
 <details>
 <summary><b>𝗦𝗨𝗣𝗣𝗢𝗥𝗧</b></b></summary>
-<a href="https://t.me/iamvillain77"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/dhokebaazbots"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
