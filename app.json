@@ -1,12 +1,12 @@
 {
-    "name": "VILLAIN_MUSIC",
+    "name": "SAMAIRA_MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://files.catbox.moe/bswmmi.jpg",
+    "logo": "https://files.catbox.moe/mrk305.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "VILLAIN",
+    "SAMAIRA",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
