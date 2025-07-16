@@ -27,7 +27,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](<img src="https://github-readme-streak-stats.herokuapp.com/?user=patanhikyah&theme=tokyonight&hide_border=false)<br/>
+## 🔥 My GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patanhikyah&theme=tokyonight&hide_border=false" />
+</p>
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=villainmusic777&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
